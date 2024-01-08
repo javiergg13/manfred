@@ -1,0 +1,232 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Javier",
+      "surnames": "Guerrero Gallo",
+      "title": "Junior Web Developer | React | Node | Angular | SpringBoot",
+      "description": "👋 Hola, soy Javier, desarrollador Web Junior.\n\nComo apasionado del desarrollo y la experiencia de usuario, procuro que mis desarrollos sean usables, inclusivos y accesibles a todas las personas.\n\n🧠 Skills\n▪️ Desarrollo centrado en experiencia de usuario\n▪️ Desarrollo con buenas prácticas: Clean Code, TDD, Pair Programming\n▪️ Desarrollo siguiendo metodologías Agile\n▪️ Proactividad y Aprendizaje continuo\n▪️ Compromiso y pensamiento crítico\n▪️ Trabajo en equipo\n\n🚀 Tecnologías y ⚙️ Herramientas \n📌 Javascript (ES6) , HTML, CSS, TypeScript, Java, JSON\n📌 VSCode, Git, Github, React, Django, Angular, Spring, Node\n\n🌟 En mi tiempo libre, también me gusta aprender creando nuevos proyectos y viendo contenido en YouTube o Twitch sobre el mundo Tech, las últimas novedades de las tecnologías y herramientas más punteras."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javier-guerrero-gallo-3989b9228/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CGI - Colaboración Tributaria"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web React",
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "Skills: Spring Boot · Desarrollo Full Stack · React.js · GitHub · Prueba unitaria · TypeScript · Desarrollo web back end · Desarrollo front end · JavaScript · Spring Framework · Node.js\n · Angular · Sql · MongoDB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini"
+        },
+        "roles": [
+          {
+            "name": "Empleado en prácticas",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Prácticas realizadas en la empresa Capgemini en las cual trabajé en proyectos reales de Angular, resolviendo incidencias y realizando mejoras en aplicaciones internas y de clientes existentes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "IES Juan Jose Calvo Miguel"
+        },
+        "finishDate": "2022-05-01",
+        "linkedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/javier-guerrero-gallo-3989b9228/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "guerrerogallojavier@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "."
+  }
+}
