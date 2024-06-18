@@ -101,7 +101,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -164,7 +164,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -227,6 +227,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "."
   }
 }
